@@ -2,8 +2,8 @@
 // For timezone purposes
 date_default_timezone_set('Africa/Nairobi');
 // input your unique consumer key and secret provide on your APP
-$consumer_key=' ';
-$consumer_secret=' ';
+$consumer_key='eCem1gMUo25PcifzRM4PShxii2kBgt4nqQi8OQCV3DdWMdWH ';
+$consumer_secret='w0zKFhcTGXT7TnaBXTyAykhGgGiNiBltfcrepKPGjilqAmsq5UfVA2xhwW1UgROO ';
 
 $headers=['Content-Type:application/json; charset-utf8'];
   $url_access_token = 'https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials';
